@@ -28,5 +28,11 @@ Power Query for data cleaning and transformation
 
 Data Set -> 
 
-📷 Dashboard Preview -> 
+📷 Dashboard Preview -> https://github.com/mohanmandala/Superstore-Sales-Dashboard/blob/main/Superstore%20Sales%20Dashboard%20Image.png
+📬 Contact
 
+👤 Your Name
+
+GitHub: @your-username
+
+LinkedIn: [Your LinkedIn Profile]
