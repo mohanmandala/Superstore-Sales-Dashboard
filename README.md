@@ -13,18 +13,23 @@ Create an optimized data model with relationships.
 Design interactive visuals and filters.
 Deliver a dynamic dashboard for quick decision-making.
 
-⚙️ Tools & Technologies
+🏢 Business Problem
+Businesses often struggle to keep track of their sales performance. Data is scattered across different files, and creating reports takes too much time. Because of this, it becomes difficult to:
+Identify which products or regions are performing well.
+Spot declining sales trends early.
+Get a clear, up-to-date picture of overall business health.
 
+⚙️ Tools & Technologies
 Power BI Desktop
 Excel/CSV dataset (sample sales data)
 Power Query for data cleaning and transformation
 
 📊Features of the Dashboard
-✔️ Total Sales Overview – Displays revenue, profit, and quantity sold.
-✔️ Sales Trends – Monthly/Quarterly trend analysis using line charts.
-✔️ Regional Performance – Sales distribution across different regions/countries.
-✔️ Interactive Filters – Slicers for year, region, and category selection.
-✔️ Drill-down Analysis – Explore sales performance at different levels.
+ Total Sales Overview – Displays revenue, profit, and quantity sold.
+ Sales Trends – Monthly/Quarterly trend analysis using line charts.
+ Regional Performance – Sales distribution across different regions/countries.
+ Interactive Filters – Slicers for year, region, and category selection.
+ Drill-down Analysis – Explore sales performance at different levels.
 
 Data Set -> https://github.com/mohanmandala/Superstore-Sales-Dashboard/blob/main/SuperStore%20Sales%20DataSet.xlsx
 
@@ -32,7 +37,5 @@ Data Set -> https://github.com/mohanmandala/Superstore-Sales-Dashboard/blob/main
 
 📬 Contact
 👤 Mandala Mohana Rao
-
 GitHub: @mohanmandala
-
 LinkedIn:https://www.linkedin.com/in/mandala-mohana-rao-4a6a19316/
