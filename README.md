@@ -26,13 +26,13 @@ Power Query for data cleaning and transformation
 ✔️ Interactive Filters – Slicers for year, region, and category selection.
 ✔️ Drill-down Analysis – Explore sales performance at different levels.
 
-Data Set -> 
+Data Set -> https://github.com/mohanmandala/Superstore-Sales-Dashboard/blob/main/SuperStore%20Sales%20DataSet.xlsx
 
 📷 Dashboard Preview -> https://github.com/mohanmandala/Superstore-Sales-Dashboard/blob/main/Superstore%20Sales%20Dashboard%20Image.png
+
 📬 Contact
+👤 Mandala Mohana Rao
 
-👤 Your Name
+GitHub: @mohanmandala
 
-GitHub: @your-username
-
-LinkedIn: [Your LinkedIn Profile]
+LinkedIn:https://www.linkedin.com/in/mandala-mohana-rao-4a6a19316/
